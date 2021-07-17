@@ -65,7 +65,8 @@ Ask yourself these questions before implementing a chatbot:
    anywhere from € 1000 to € 15000+ and monthly retainers between € 100 to € 5000+."
 
 6. How does the implementation process of a chatbot look like? 
- 
+
+
    ->TOP 10 CHATBOT DEVELOPER INTERVIEW QUESTIONS & ANSWERS :
     Chatbot Developer
    "A chatbot developer is one who develops chatbots which are computer programs which can have real conversations 
@@ -149,29 +150,20 @@ processing".
 CHATBOT
 "TAGSCHATBOT DEVELOPER, CHATBOT DEVELOPER INTERVIEW, CHATBOT EXPERT, CHATBOT JOB, CHATBOTS, CHTABOT, 
 INTERVIEW QUESTION ANSWERS, TECHNOLOGY, TOP 10 INTERVIEW QUESTION ANSWERS"
-  
+
+
+ 
+
+
    
-5. 5. How does the bot continue to learn once it’s life and how do we make sure it doesn’t start behaving or speaking
 
+   
+   
+   
+5. 5. How does the bot continue to learn once it’s life and how do we make sure it doesn’t start behaving or speaking in an inappropriate manner?
+   
 
- in an inappropriate manner?
-
-Que - What is the purpose of Chatbots?
-Ans - Chatbot applications streamline interactions between people and services, enhancing customer experience. 
-At the same time, they offer companies new opportunities to improve the customers engagement process and 
-operational efficiency by reducing the typical cost of customer service.
-Que - Which are AI based Chatbots?
-Ans - Best AI Chatbot
-1-Manychat 2)Lanbot 3)Hyro 4)REVE chatbot 5)Xenioo  6)survey-sparrow 7)Flowxo
- 8) Amplify.ai 9)Botsify 10)
-  
-Que -What is AI  based chatbots?
-Ans -A chatbot is a program that simulates a text- or speech-based human-to-human conversation using artificial
-intelligence (AI), providing an authentic, straightforward experience. Many different technologies can be considered 
-chatbots, ranging from automated phone menus to sophisticated marketing bots that can engage with customers on social media.
-
-
-Que - What is AI based Chatbot?
+ Que - What is AI based Chatbot?
 
   But my chatbot is AI chatbot is a software that can simulate a user conversation with a natural
   language through messaging applications.it increases user response rate by being available 24/7
@@ -188,8 +180,8 @@ different responses from the same input given by user according to current conve
 
 ->In my projects
 
-  "It is an AI chatbot, using Long Short Term Memory, the problem statements 
- (this is straightforward, what is the purpose of a chatbot) and advantages are things that you can get from google."
+  It is an AI chatbot, using Long Short Term Memory, the problem statements 
+ (this is straightforward, what is the purpose of a chatbot) and advantages are things that you can get from google
    
  
 
